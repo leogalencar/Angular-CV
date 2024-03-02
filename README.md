@@ -1,4 +1,5 @@
-# AngularCv
+# Angular-CV
+Projeto da faculdade em que o objetivo era construir um Curriculum Vitae utilizando Angular.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.2.
 
